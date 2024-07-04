@@ -1,7 +1,8 @@
 # C_Pratice_Lab
 
 C Programs: Practicing and solving problems is the best way to learn anything. Here, we have provided 100+ C programming examples in different categories like basic C Programs, Fibonacci series in C, String, Array, Base Conversion, Pattern Printing, Pointers, etc. These C programs are the most asked interview questions from basic to advanced level.
-# Program – Basic
+# C Program – Basic
+
 1.C Hello World Program
 
 2.C Program to Print Your Own Name 
@@ -31,3 +32,15 @@ C Programs: Practicing and solving problems is the best way to learn anything. H
 14.C Program to Find Compound Interest
 
 15.C Program for Area And Perimeter Of Rectangle 
+
+# C Program – Control Flow
+
+1.C Program to Check Whether a Number is Positive, Negative, or Zero
+
+2.C Program to Check Whether Number is Even or Odd
+
+3.C Program to Check Whether a Character is Vowel or Consonant 
+
+4.C Program to Find Largest Number Among Three Numbers
+
+5.C Program to Calculate Sum of Natural Numbers 
