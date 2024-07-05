@@ -44,3 +44,13 @@ C Programs: Practicing and solving problems is the best way to learn anything. H
 4.C Program to Find Largest Number Among Three Numbers
 
 5.C Program to Calculate Sum of Natural Numbers 
+
+6.C Program to Print Alphabets From A to Z Using Loop
+
+7.C Program to Check Leap Year
+
+8.C Program to Find Factorial of a Number
+
+9.C Program to Make a Simple Calculator 
+
+10.C Program to Generate Multiplication Table 
